@@ -16,5 +16,5 @@
 
 1. Camera 화면은 Trigger 된 이미지를 출력
 2. image 화면은 사용자가 Roi로 자른 이미지를 출력
-3. Hitmap은 Hitmap이 표시된 이미지를 출력
+3. Heatmap은 Heattmap이 표시된 이미지를 출력
 4. Histogram은 Histogram 그래프가 표시된 이미지를 출력
